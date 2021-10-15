@@ -1,7 +1,9 @@
 # Terraform CDK sample 
 
 See announcement here : https://www.hashicorp.com/blog/cdk-for-terraform-0-6-adds-unit-testing
+
 Documentation here : https://github.com/hashicorp/terraform-cdk#documentation
+
 Tutorial here : https://learn.hashicorp.com/tutorials/terraform/cdktf-install
 
 ## Getting started
