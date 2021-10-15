@@ -1,0 +1,10 @@
+{
+  "language": "python",
+  "app": "python main.py",
+  "terraformProviders": [
+    "hashicorp/random@~> 3.0"
+  ],
+  "terraformModules": [],
+  "codeMakerOutput": "imports",
+  "projectId": "49d0639e-d4d0-4bff-b1e6-56b1c7fd7b9f"
+}
