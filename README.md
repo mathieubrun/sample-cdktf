@@ -6,6 +6,10 @@ Documentation here : https://github.com/hashicorp/terraform-cdk#documentation
 
 Tutorial here : https://learn.hashicorp.com/tutorials/terraform/cdktf-install
 
+## Prerequisites
+
+- vscode with "remote - containers" extension
+
 ## Getting started
 
 - Open the folder with the language of your choice in VSCode
