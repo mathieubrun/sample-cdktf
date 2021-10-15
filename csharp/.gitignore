@@ -1,0 +1,9 @@
+.gen/
+bin/
+dist/
+imports/
+obj/
+terraform.*tfstate
+cdktf.out
+.vscode
+*.user
